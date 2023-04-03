@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Pelucio 👋
 
-- 🔭 Hoje trabalho com NodeJS, React e React-Native
+- 🔭 Trabalho com NodeJS, React e React-Native
 - 🌱 Estudando Typescript
 
 <div>
